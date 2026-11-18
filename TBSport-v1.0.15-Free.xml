@@ -48,10 +48,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 
-<!-- TemaBlogger release | product=tbsport | releaseVersion=1.0.14 | date=2026-11-17 | delivery=free-v1 | basePremiumVersion=1.0.12 -->
+<!-- TemaBlogger release | product=tbsport | releaseVersion=1.0.15 | date=2026-11-18 | delivery=free-v1 | basePremiumVersion=1.0.12 -->
 
 <!DOCTYPE html>
-<html b:defaultwidgetversion='2' b:responsive='true' b:version='2' class='v2' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' b:templateVersion="1.0.14">
+<html b:defaultwidgetversion='2' b:responsive='true' b:version='2' class='v2' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' b:templateVersion="1.0.15">
 <head>
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <b:include data='blog' name='all-head-content'/><title><data:blog.pageTitle/></title>
@@ -898,7 +898,7 @@ body#layout .tb-free-lock-note{display:block;color:#52627a;font-size:13px}
 <b:section class='tb-license-settings' id='tbLicenseSettings' name='Lisensi Tema Blogger' showaddelement='yes'>
   <b:widget id='HTML98' locked='true' title='License Key' type='HTML' version='2' visible='true'>
     <b:widget-settings><b:widget-setting name='content'></b:widget-setting></b:widget-settings>
-    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Versi Free. Untuk iklan dan pengaturan kredit footer, gunakan paket Premium.</div></b:includable>
+    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Edisi Free aktif tanpa pembelian atau kode lisensi. TemaBlogger adalah pembuat template ini. Pengaturan logo, menu, warna, dan gadget tetap dikelola melalui Tata Letak.</div></b:includable>
   </b:widget>
 </b:section>
 
